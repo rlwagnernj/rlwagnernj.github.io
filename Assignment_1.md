@@ -228,7 +228,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](1.png)
     
 
 
@@ -260,7 +260,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](2.png)
     
 
 
